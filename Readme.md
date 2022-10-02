@@ -7,3 +7,11 @@
 <p>Learned the concepts of LocalDate and NumberFormat applied </p>
 <br>
 <p>Applied this concepts and solved 2 HackerRank Problem</p>
+
+<h4>Day-3</h4>
+
+<p>Learned the concepts of Random Class and solved a question</p>
+<br>
+<p> Question: Write a Java program that randomly picks an English alphabet (A-Z)
+and keeps asking the user to guess the alphabet 
+until he/she has got it right. Also report the number of trials. </p>
