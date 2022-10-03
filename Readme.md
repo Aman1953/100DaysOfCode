@@ -15,3 +15,7 @@
 <p> Question: Write a Java program that randomly picks an English alphabet (A-Z)
 and keeps asking the user to guess the alphabet 
 until he/she has got it right. Also report the number of trials. </p>
+
+<h4>Day-4</h4>
+
+<p>Learned the concepts of substring() in java</p>
