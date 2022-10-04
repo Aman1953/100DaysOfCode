@@ -23,4 +23,4 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-5<h4>
 <p>Checked a String is Palindrome or not</p>
 <p>A string is said to be palindrome if it remains the same on reading from both ends.</p>
-<h1>example : MALAYALAM <h1>
+<h6>example : MALAYALAM <h6>
