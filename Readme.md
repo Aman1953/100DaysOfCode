@@ -28,3 +28,6 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-6</h5>
 <p>Learned about Method Overloading and Method Overloading in Java</p>
 
+<h5>Day-7</h5>
+<p>Learned about Inheritance concepts in Java and solved 2 problems</p>
+
