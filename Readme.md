@@ -31,3 +31,5 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-7</h5>
 <p>Learned about Inheritance concepts in Java and solved 2 problems</p>
 
+<h5>Day-8</h5>
+<p>Learned about Interface concepts in Java and solved 1 problem on HackerRank</p>
