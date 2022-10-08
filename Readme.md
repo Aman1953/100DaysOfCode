@@ -32,4 +32,7 @@ until he/she has got it right. Also report the number of trials. </p>
 <p>Learned about Inheritance concepts in Java and solved 2 problems</p>
 
 <h5>Day-8</h5>
-<p>Learned about Interface concepts in Java and solved 1 problem on HackerRank</p>
+<p>Learned about Interface concepts in Java and solved a problem on HackerRank</p>
+
+<h5>Day-9</h5>
+<p>Learned about super keyword in Java and solved a problem on HackerRank</p>
