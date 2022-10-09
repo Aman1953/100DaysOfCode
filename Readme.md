@@ -36,3 +36,7 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-9</h5>
 <p>Learned about super keyword in Java and solved a problem on HackerRank</p>
+
+<h5>Day-10</h5>
+<p>Learned about Krishnamurthy Number</p>
+<p>A number is said to be Krishnamurthy if the factorial sum of all its digits is equal to that number. </p>
