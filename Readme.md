@@ -40,3 +40,7 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-10</h5>
 <p>Learned about Krishnamurthy Number</p>
 <p>A number is said to be Krishnamurthy if the factorial sum of all its digits is equal to that number. </p>
+
+<h5>Day-11</h5>
+<p>Learned about Armstrong Number</p>
+<p>An Armstrong number is one whose sum of digits raised to the power three equals the number itself. </p>
