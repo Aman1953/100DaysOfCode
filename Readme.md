@@ -48,7 +48,7 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-12</h5>
 <p>Learned about Floyd's Triangle</p>
 <p>The Floyd's triangle is a right-angled triangle that contains consecutive natural numbers.</p>
-<p>In Floyd's triangle, the number starts with 1 in the top left corner, and then it consecutive filling the defined rows through the numbers. </p>\
+<p>In Floyd's triangle, the number starts with 1 in the top left corner, and then it consecutive filling the defined rows through the numbers. </p>
 
 <h5>Day-13</h5>
 <p>Learned String split() in java and solved a problem on HackerRank.</p>
