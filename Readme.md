@@ -52,3 +52,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-13</h5>
 <p>Learned String split() in java and solved a problem on HackerRank.</p>
+
+<h5>Day-14</h5>
+<p>learned about Insertion sort</p>
