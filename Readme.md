@@ -58,3 +58,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-15</h5>
 <p>learned about Binary Search</p>
+
+<h5>Day-16</h5>
+<p>learned about Bubble Sort</p>
