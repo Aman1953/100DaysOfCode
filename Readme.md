@@ -64,3 +64,8 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-17</h5>
 <p>learned about Linear Search</p>
+
+<h5>Day-18</h5>
+<p>Topic : Fibonacci Series</p>
+<h5>The Fibonacci series is a series where the next term is the sum of the previous two terms. The first two terms of the Fibonacci sequence are 0 followed by 1.</h5>
+<h6>Fibonacci Series : 0, 1, 1, 2, 3, 5, 8, 13......</h6>
