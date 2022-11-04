@@ -78,3 +78,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-21</h5>
 <p>Printing Fibonacci series using recursion </p>
+
+<h5>Day-22</h5>
+<p>Learned the concepts of Abstract Class in java </p>
