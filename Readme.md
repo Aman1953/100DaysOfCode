@@ -84,3 +84,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-23</h5>
 <p>Learned try-catch block in java </p>
+
+<h5>Day-24</h5>
+<p>Learned Exception handling in java </p>
