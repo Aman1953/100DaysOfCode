@@ -90,3 +90,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-25</h5>
 <p>Learned about throw and throws keyword in java</p>
+
+<h5>Day-26</h5>
+<p>Learned about finally block in java</p>
