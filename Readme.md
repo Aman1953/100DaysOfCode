@@ -95,5 +95,5 @@ until he/she has got it right. Also report the number of trials. </p>
 <p>Learned about finally block in java</p>
 
 <h5>Day-27</h5>
-<p>Learned some methods of Thread class</p>
+<p>Learned some methods of Thread class in java</p>
 
