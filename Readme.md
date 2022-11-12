@@ -103,3 +103,6 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-29</h5>
 <p>Learned about BigInteger in java</p>
 
+<h5>Day-30</h5>
+<p>Learned few methods of BigInteger class in java</p>
+
