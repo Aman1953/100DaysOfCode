@@ -111,3 +111,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-31</h5>
 <p>Learned the concepts of Synchronization in java </p>
+
+<h5>Day-32</h5>
+<p>Learned about instanceof operator in java </p>
