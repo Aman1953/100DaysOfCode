@@ -117,3 +117,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-34</h5>
 <p>Solved a problem on HackerRank of the topic 'Java Anagrams' </p>
+
+<h5>Day-35</h5>
+<p>Learned Selection sort algorithm</p>
