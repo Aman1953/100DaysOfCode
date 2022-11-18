@@ -120,3 +120,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-35</h5>
 <p>Learned Selection sort algorithm</p>
+
+<h5>Day-36</h5>
+<p>Learned about Java Map</p>
