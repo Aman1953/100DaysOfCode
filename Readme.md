@@ -128,4 +128,4 @@ until he/she has got it right. Also report the number of trials. </p>
 <p>Learned about Java Hashset</p>
 
 <h5>Day-38</h5>
-<p>Learned how to join two ArrayLists in java</p>
+<p>Learned how to join two ArrayLists </p>
