@@ -135,3 +135,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-40/h5>
 <p>Started Learning Java Swing </p>
+
+<h5>Day-41/h5>
+<p>Learned about JFrame and JLabel class </p>
