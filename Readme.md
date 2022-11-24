@@ -138,3 +138,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-41/h5>
 <p>Learned about JFrame and JLabel class </p>
+
+<h5>Day-42/h5>
+<p>Learned about JPanel class in java</p>
