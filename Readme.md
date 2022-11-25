@@ -141,3 +141,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-42/h5>
 <p>Learned about JPanel class in java</p>
+
+<h5>Day-43/h5>
+<p>Learned about Java Comparator</p>
