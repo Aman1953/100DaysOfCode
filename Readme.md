@@ -140,13 +140,16 @@ until he/she has got it right. Also report the number of trials. </p>
 <p>Learned about JFrame and JLabel class </p>
 
 <h5>Day-42/h5>
-<p>Learned about JPanel class in java</p>
+<p>Learned about JPanel class in Java</p>
 
 <h5>Day-43/h5>
 <p>Learned about Java Comparator</p>
 
 <h5>Day-44/h5>
-<p>Learned about Jbutton class in java</p>
+<p>Learned about JButton class in Java</p>
 
-<h5>Day-44/h5>
+<h5>Day-45/h5>
 <p>Learned about Java Generics</p>
+
+<h5>Day-46/h5>
+<p>Created a login page using Java Swing</p>
