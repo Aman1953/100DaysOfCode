@@ -153,3 +153,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-46/h5>
 <p>Created a login page using Java Swing</p>
+
+<h5>Day-47/h5>
+<p>Created the concept of Java ArrayList</p>
