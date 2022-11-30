@@ -156,3 +156,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-47/h5>
 <p>Created the concept of Java ArrayList</p>
+
+<h5>Day-48/h5>
+<p>Solved a question on HackerRank of Abstract class in Java</p>
