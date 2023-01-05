@@ -1,0 +1,13 @@
+Problem Statement:
+Write a program that accepts a hyphen-separated sequence of words as input and prints the words in a hyphen-separated sequence after sorting them alphabetically.
+ 
+Sample Items: green-red-yellow-black-white
+Expected Result: black-green-red-white-yellow
+
+Input format:
+The input consists of a string separated by a hyphen.
+Output format:
+The output prints the sorted string.
+
+
+
