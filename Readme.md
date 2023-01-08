@@ -172,5 +172,8 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-52/h5>
 <p>Solved a question related with Strings in Java</p>
 
-<h5>Day-52/h5>
+<h5>Day-53/h5>
 <p>Solved a question related with numerological reduction in Java</p>
+
+<h5>Day-54/h5>
+<p>Solved a question related with valid credit card number in Java</p>
