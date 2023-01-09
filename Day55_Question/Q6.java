@@ -4,6 +4,7 @@ public class Q6{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the amount");
         int n = sc.nextInt();
+        int temp = n;
         int c =0;
         while(n>100){
             int t = n / 100;
@@ -29,7 +30,7 @@ public class Q6{
             int t = n;
             c = c+t;
             n= n-(t); }
-        System.out.print("The smallest number of notes that will combine to give "+n+" amount: "+c);
+        System.out.print("The smallest number of notes that will combine to give "+temp+" amount: "+c);
     }
 }
 
