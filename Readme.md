@@ -180,3 +180,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-55/h5>
 <p>Solved a question int Java to find smallest number of notes possible that will combine to give certain amount</p>
+
+<h5>Day-56/h5>
+<p>Solved a question int Java to count occurrences of a digit  </p>
