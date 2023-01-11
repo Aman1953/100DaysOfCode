@@ -179,7 +179,10 @@ until he/she has got it right. Also report the number of trials. </p>
 <p>Solved a question related with valid credit card number in Java</p>
 
 <h5>Day-55/h5>
-<p>Solved a question int Java to find smallest number of notes possible that will combine to give certain amount</p>
+<p>Solved a question in Java to find smallest number of notes possible that will combine to give certain amount</p>
 
 <h5>Day-56/h5>
-<p>Solved a question int Java to count occurrences of a digit  </p>
+<p>Solved a question in Java to count occurrences of a digit  </p>
+
+<h5>Day-57/h5>
+<p>Solved a question related to arrays in Java  </p>
