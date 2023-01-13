@@ -189,3 +189,8 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-58/h5>
 <p>Legendre’s formula in Java  </p>
+
+<h5>Day-59/h5>
+<p>finding the number of occurrences of a character in a string </p>
+
+
