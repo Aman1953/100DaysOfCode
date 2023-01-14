@@ -193,4 +193,6 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-59/h5>
 <p>finding the number of occurrences of a character in a string </p>
 
+<h5>Day-60/h5>
+<p>Converting a decimal number into binary number and counting the number of 1's  </p>
 

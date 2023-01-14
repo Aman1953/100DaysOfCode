@@ -1,0 +1,12 @@
+Problem Statement:
+Write a program to Convert a Decimal Number to Binary and Count the number of 1s.
+
+Input format:
+The input consists of a number.
+
+Output format:
+The output prints the number of 1’s in a binary format.
+
+Example:
+Input: 11
+Output: Number of 1s is : 3
