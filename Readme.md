@@ -198,3 +198,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-61/h5>
 <p>replaceAll() in Java  </p>
+
+<h5>Day-62/h5>
+<p>Swap two numbers without using third variable in single line</p>
