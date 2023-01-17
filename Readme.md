@@ -201,3 +201,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-62/h5>
 <p>Swap two numbers without using third variable in single line</p>
+
+<h5>Day-63/h5>
+<p>Area of Circle (using Switch Case) </p>
