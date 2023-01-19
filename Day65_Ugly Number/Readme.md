@@ -1,0 +1,1 @@
+<h1>Write a program to accept a number and check whether it is Ugly number or not</h1>

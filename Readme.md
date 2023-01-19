@@ -207,3 +207,6 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-64/h5>
 <p>Wrapper class Vs DataType </p>
+
+<h5>Day-65/h5>
+<p>Write a program to accept a number and check whether it is Ugly number or not</p>
