@@ -1,0 +1,1 @@
+<h1>Write a program to check whether a number is a Sunny number or not</h1>

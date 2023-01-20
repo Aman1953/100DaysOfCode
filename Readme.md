@@ -210,3 +210,7 @@ until he/she has got it right. Also report the number of trials. </p>
 
 <h5>Day-65/h5>
 <p>Write a program to accept a number and check whether it is Ugly number or not</p>
+
+<h5>Day-66/h5>
+<p>Write a program to check whether a number is a Sunny number or not</p>
+
