@@ -1,0 +1,1 @@
+<h1>Write a program to calculate norm of a number</h1>
