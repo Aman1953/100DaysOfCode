@@ -214,3 +214,12 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-66/h5>
 <p>Write a program to check whether a number is a Sunny number or not</p>
 
+<h5>Day-67/h5>
+<p>Write a program to calculate norm of a number</p>
+
+<h5>Day-68/h5>
+<p>Write a program to check whether a number is a Bouncy number or not</p>
+
+
+
+
