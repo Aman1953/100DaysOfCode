@@ -1,0 +1,1 @@
+<h1>Write a program to check whether a number is a Smith number or not</h1>
