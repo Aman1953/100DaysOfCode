@@ -221,7 +221,7 @@ until he/she has got it right. Also report the number of trials. </p>
 <p>Write a program to check whether a number is a Bouncy number or not</p>
 
 <h5>Day-69/h5>
-<p>Write a program to check whether a number is a Smith number or not</p>
+<p>Write a program to take an input from the user and check whether that number is Smith Number or not</p>
 
 
 
