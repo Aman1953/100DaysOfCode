@@ -223,9 +223,9 @@ until he/she has got it right. Also report the number of trials. </p>
 <h5>Day-69/h5>
 <p>Write a program to take an input from the user and check whether that number is Smith Number or not</p>
 
-<h5>Day-70/h5>
-<p>Write a program to check whether a number is a Strobogrammatic
- number or not</p>
+ 
+ <h5>Day-70/h5>
+<p>Write a program to take an input from the user and check whether that number is Strobogrammatic Number or not</p>
 
 
 
