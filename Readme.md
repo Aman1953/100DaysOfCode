@@ -225,7 +225,7 @@ until he/she has got it right. Also report the number of trials. </p>
 
  
  <h5>Day-70/h5>
-<p>Write a program to check whether a number is a Strobogrammatic number or not</p>
+<p>Write a program to enter a number and check whether the number is a Strobogrammatic number or not</p>
  
  
 
