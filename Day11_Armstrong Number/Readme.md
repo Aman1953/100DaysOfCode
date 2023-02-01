@@ -1,0 +1,1 @@
+<h1>Write a program to enter a number and check whether the entered number is a Armstrong number or not</h1>
