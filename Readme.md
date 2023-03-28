@@ -226,8 +226,87 @@ until he/she has got it right. Also report the number of trials. </p>
  
 <h5>Day-70/h5>
 <p>Write a program to enter a number and check whether the number is a Strobogrammatic number or not</p>
- 
- 
+<h5>Day 71</h5>
+<p>Integer to Roman (LeetCode)</p>
+<h5>Day 72</h5>
+<p>Day72_Roman to Integer (LeetCode)</p>>
+
+<h5>Day 73</h5>
+</p>Day73_Reverse Integer (LeetCode)</p>
+
+<h5>Day 74</h5>
+</p>Day74_Two-Sum (LeetCode)</p>
+
+<h5>Day 75</h5>
+</p>Day75_ValidPalindrome(LeetCode)</p>
+
+<h5>Day 76</h5>
+</p>Day76_length of last word (LeetCode)</p>
+
+<h5>Day 77</h5>
+</p>Day77_Find Smallest Letter Greater Than Target (LeetCode)</p>
+
+<h5>Day 78</h5>
+<p> One (LeetCode)</p>
+
+<h5>Day 79</h5>
+</p>Day79_Divide Two Integers (LeetCode)</p>
+
+
+
+
+<h5>Day 80</h5>
+<p>Excel Sheet Column Number (LeetCode)</p>
+
+<h5>Day 81</h5>
+<p>Find All Duplicates in an Array (LeetCode)</p>
+
+<h5>Day 82</h5>
+<p>Detect Capital (LeetCode)</p>
+
+<h5>Day 83</h5>
+<p>Add Digits (LeetCode)</p>
+
+<h5>Day 84</h5>
+<p>LinkedList</p>
+
+<h5>Day 85</h5>
+<p>Running sum of 1D array (LeetCode)</p>
+
+<h5>Day 86</h5>
+<p> Index (LeetCode)</p>
+
+<h5>Day 87</h5>
+<p>Isomorphic Strings (LeetCode)</p>
+
+<h5>Day 88</h5>
+<p>Is Subsequence (LeetCode)</p>
+
+<h5>Day 89</h5>
+<p>Longest common prefix(LeetCode)</p>
+
+<h5>Day 90</h5>
+<p>Best Time to Buy and Sell Stock (LeetCode)</p>
+
+<h5>Day 91</h5>
+<p>Insert Position</p>
+
+
+<h5>Day 92</h5>
+<p>Majority Element</p>
+
+<h5>Day 93</h5>
+<p>Union of Arrays</p>
+
+<h5>Day 94</h5>
+<p>Intersection of Arrays</p>
+
+<h5>Day 95</h5>
+<p>Single Number</p>
+
+<h5>Day 96</h5>
+
+<p>Remove Duplicates(LeetCode)</p>
 
 
 
