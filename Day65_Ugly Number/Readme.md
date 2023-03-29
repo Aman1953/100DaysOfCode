@@ -1,1 +1,1 @@
-<h1>Write a program to enter a number and check whether it is Ugly number or not</h1>
+<h1>Write a program to enter a number and check whether the entered number is an ugly number or not</h1>
